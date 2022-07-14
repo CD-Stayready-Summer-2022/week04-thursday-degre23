@@ -1,5 +1,9 @@
 package com.codedifferently.problem01;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 public class Solution {
     /**
      * You will be given an array of numbers, search the array and return the longest
@@ -11,6 +15,11 @@ public class Solution {
      * @return
      */
     public String findLongestConsecutiveSet(Integer[] allNumbers){
+        // loop through the list
+        ArrayList<Integer[]> tempList = new ArrayList<>();
+        for (int i = 0; i < );
+
+
         return null;
     }
 }
